@@ -159,9 +159,10 @@ p {
 }
 
 @media (max-width:989px) {
-  #title {
+    #title .container-fluid {
     text-align: center;
   }
+
 
   .title-img {
     position: static;
