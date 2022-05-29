@@ -161,6 +161,7 @@ p {
 @media (max-width:989px) {
   #title .container-fluid {
     text-align: center;
+    overflow:auto;
   }
 
   .title-img {
